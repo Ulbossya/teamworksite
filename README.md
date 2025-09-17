@@ -5,7 +5,8 @@ teamworksite
 
 ### 🚀 Как запустить сайт
 Склонировать репозиторий:
-git clone git@github.com:UlbosynSayakbaeva/teamworksite.git
+git clone git@github.com:Ulbossya/teamworksite.git 
+
 ### 2.Перейти в папку проекта: cd teamworksite
 
 ### Участники команды
